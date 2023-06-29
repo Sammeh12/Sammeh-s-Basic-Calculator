@@ -1,0 +1,27 @@
+C:\Users\GAMAY\source\repos\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe.config
+C:\Users\GAMAY\source\repos\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe
+C:\Users\GAMAY\source\repos\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.pdb
+C:\Users\GAMAY\source\repos\BasicCalculator\BasicCalculator\bin\Debug\CalculatorPrivateAssembly.dll
+C:\Users\GAMAY\source\repos\BasicCalculator\BasicCalculator\bin\Debug\CalculatorPrivateAssembly.pdb
+C:\Users\GAMAY\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.AssemblyReference.cache
+C:\Users\GAMAY\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAMAY\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.Properties.Resources.resources
+C:\Users\GAMAY\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.GenerateResource.cache
+C:\Users\GAMAY\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.CoreCompileInputs.cache
+C:\Users\GAMAY\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.CopyComplete
+C:\Users\GAMAY\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.exe
+C:\Users\GAMAY\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.pdb
+C:\Users\GAMAY\source\repos\SammehBasicCalculator\BasicCalculator\bin\Debug\Sammeh's Basic Calculator.exe.config
+C:\Users\GAMAY\source\repos\SammehBasicCalculator\BasicCalculator\bin\Debug\Sammeh's Basic Calculator.exe
+C:\Users\GAMAY\source\repos\SammehBasicCalculator\BasicCalculator\bin\Debug\Sammeh's Basic Calculator.pdb
+C:\Users\GAMAY\source\repos\SammehBasicCalculator\BasicCalculator\bin\Debug\CalculatorPrivateAssembly.dll
+C:\Users\GAMAY\source\repos\SammehBasicCalculator\BasicCalculator\bin\Debug\CalculatorPrivateAssembly.pdb
+C:\Users\GAMAY\source\repos\SammehBasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.AssemblyReference.cache
+C:\Users\GAMAY\source\repos\SammehBasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAMAY\source\repos\SammehBasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.FrmBasicCalculator.resources
+C:\Users\GAMAY\source\repos\SammehBasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.Properties.Resources.resources
+C:\Users\GAMAY\source\repos\SammehBasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.GenerateResource.cache
+C:\Users\GAMAY\source\repos\SammehBasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.CoreCompileInputs.cache
+C:\Users\GAMAY\source\repos\SammehBasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.CopyComplete
+C:\Users\GAMAY\source\repos\SammehBasicCalculator\BasicCalculator\obj\Debug\Sammeh's Basic Calculator.exe
+C:\Users\GAMAY\source\repos\SammehBasicCalculator\BasicCalculator\obj\Debug\Sammeh's Basic Calculator.pdb
